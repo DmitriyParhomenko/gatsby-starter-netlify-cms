@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Вкусный кофе
 image: /img/products-grid1.jpg
 heading: Отличный аромат кофе!
 subheading: Support sustainable farming while enjoying a cup
